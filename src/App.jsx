@@ -93,16 +93,6 @@ const App = () => {
     tag2: "Mid Level",
     pay: "$85/hour",
     location: "San Francisco, California, USA"
-  },
-  {
-    brandLogo: "https://th.bing.com/th/id/R.31110f2554e4e025031291a9fa513b51?rik=XKyIJI%2bKiJM3YA&pid=ImgRaw&r=0",
-    companyName: "Adobe Systems",
-    datePosted: "10 weeks ago",
-    post: "UI/UX Designer",
-    tag1: "Full Time",
-    tag2: "Junior Level",
-    pay: "$50/hour",
-    location: "Kathmandu, Nepal"
   }
 ];
 
